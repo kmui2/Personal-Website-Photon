@@ -17,11 +17,11 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
-img.p-icon {
-    transform:translate(0,7px);
-   width:30px; 
-}
 
+    img.p-icon {
+        transform:translate(0,7px);
+       width:30px; 
+    }
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -2328,7 +2328,7 @@ img.p-icon {
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 70%;
+			width: 100%;
 		}
 
 			.image.fit img {
@@ -2714,7 +2714,7 @@ img.p-icon {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../../images/header.jpg");
+			background-image: url("../../images/madison2.jpg"), url("../../images/header.jpg");
 			background-size: auto,							cover;
 		}
 
