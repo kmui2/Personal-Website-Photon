@@ -17,6 +17,10 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+img.p-icon {
+    transform:translate(0,7px);
+   width:30px; 
+}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
@@ -2324,7 +2328,7 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 70%;
 		}
 
 			.image.fit img {
