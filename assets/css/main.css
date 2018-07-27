@@ -2334,6 +2334,26 @@
 
 			.image.fit img {
 				width: 100%;
+				-webkit-transition: all 0.7s ease;
+				transition: all 0.7s ease;
+			}
+			
+			.image.fit img:hover {
+				-webkit-transform: scale(1.1);
+				transform: scale(1.1);
+			}
+
+			#one img {
+				width: 60%;
+				border-radius: 100%;
+				margin: auto;
+				-webkit-transition: all 0.7s ease;
+				transition: all 0.7s ease;
+			}
+
+			#one img:hover {
+				-webkit-transform: scale(1.12);
+				transform: scale(1.2);
 			}
 
 /* List */
