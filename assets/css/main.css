@@ -2336,6 +2336,7 @@
 				width: 100%;
 				-webkit-transition: all 0.7s ease;
 				transition: all 0.7s ease;
+				height: 18em;
 			}
 			
 			.image.fit img:hover {
